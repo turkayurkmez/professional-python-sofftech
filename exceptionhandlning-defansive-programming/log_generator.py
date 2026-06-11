@@ -1,7 +1,7 @@
 import logging
 class logGenerator:
 
-    logger: None
+   
     def __init__(self):
         #1. adım: Logging'i yapılandır.
         logging.basicConfig(level=logging.DEBUG, 
@@ -15,7 +15,8 @@ class logGenerator:
     
 
     def get_logger(self):
-        return self.logger
+       return self.logger 
+        
 
 
    

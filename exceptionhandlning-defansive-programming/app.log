@@ -1,2 +1,11 @@
-2026-06-11 10:34:23,954 | INFO | division fonksiyonu çaðrýldý. a=ahmet, b=x
-2026-06-11 10:34:23,955 | ERROR | Yalnýzca sayý tipleri ile çalýþýr.
+2026-06-11 10:34:23,954 | INFO | division fonksiyonu ï¿½aï¿½rï¿½ldï¿½. a=ahmet, b=x
+2026-06-11 10:34:23,955 | ERROR | Yalnï¿½zca sayï¿½ tipleri ile ï¿½alï¿½ï¿½ï¿½r.
+2026-06-11 11:31:57,815 | INFO | create_user fonksiyonu, name=Tï¿½rkay ve age=46 argï¿½manlarï¿½yla baï¿½ladï¿½
+2026-06-11 11:31:57,816 | INFO | Kullanï¿½cï¿½ baï¿½arï¿½yla oluï¿½turuldu
+2026-06-11 11:31:57,816 | DEBUG | create_user fonksiyonu tamamlandï¿½!
+2026-06-11 11:31:57,818 | INFO | create_user fonksiyonu, name=Derya ve age=abc argï¿½manlarï¿½yla baï¿½ladï¿½
+2026-06-11 11:31:57,819 | ERROR | Yaï¿½ int'e dï¿½nï¿½ï¿½tï¿½rï¿½lemedi. Girilen deï¿½er: abc 
+2026-06-11 11:31:57,820 | DEBUG | create_user fonksiyonu tamamlandï¿½!
+2026-06-11 11:31:57,821 | INFO | create_user fonksiyonu, name=ï¿½lknur ve age=-8 argï¿½manlarï¿½yla baï¿½ladï¿½
+2026-06-11 11:31:57,822 | ERROR | yaï¿½ doï¿½rulanmadï¿½. Sebebi:Yaï¿½ negatif olamaz!
+2026-06-11 11:31:57,823 | DEBUG | create_user fonksiyonu tamamlandï¿½!
